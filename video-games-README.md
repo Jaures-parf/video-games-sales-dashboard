@@ -12,7 +12,7 @@ Three related tables:
 - **Titles** — one row per game (title, console, genre, publisher, developer, release date)
 - **Sales** — sales records linked to each title
 
-Together they cover thousands of game titles across multiple platforms, genres, publishers, countries, and release years, published by 268 active publishers. _(Link to the source dataset here.)_ The raw file isn't committed — the `.pbix` and screenshots tell the story.
+Together they cover thousands of game titles across multiple platforms, genres, publishers, countries, and release years, published by 268 active publishers.  The raw file isn't committed — the `.pbix` and screenshots tell the story.
 
 ## Tools
 
